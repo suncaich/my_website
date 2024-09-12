@@ -1,0 +1,11 @@
+---
+title: "Welcome to my Website"
+---
+
+Hi
+
+Name: caichen sun
+
+Student at the University of Toronto
+
+Major: Statistics

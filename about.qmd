@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website is for personal use. I will be updating it with projects I work on.
